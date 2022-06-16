@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "figma",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
